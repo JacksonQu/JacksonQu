@@ -1,4 +1,4 @@
-### Hi there, my name is Jackson Qu, currently a CS graduate student at NYU Tandan.
+### Hi there, my name is Jackson Qu, and I am currently a CS graduate student at NYU Tandon.
 
 <!--
 **JacksonQu/JacksonQu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
